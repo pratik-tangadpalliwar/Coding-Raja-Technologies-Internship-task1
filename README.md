@@ -7,7 +7,7 @@ This project is a web-based resume builder I created during my internship with C
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/pratik-tangadpalliwar/Coding-Raja-Technologies-Internship-.git
+   git clone https://github.com/pratik-tangadpalliwar/Coding-Raja-Technologies-Internship-task1.git
    ```
 
 2. **Open the Project:**
